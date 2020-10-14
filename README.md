@@ -1,8 +1,5 @@
 # etcd #
 
-
-
-
 [![Build Status](https://travis-ci.org/icalvete/puppet-etcd.png)](https://travis-ci.org/icalvete/puppet-etcd)
 
 This module installs and configures etcd.
